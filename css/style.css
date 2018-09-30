@@ -55,3 +55,16 @@ body > .container {
     height: 400px;
     background-color: cornflowerblue;
 }
+
+
+/* button enchancements
+---------------------------------------------------------------*/
+
+.btn-xl {
+    padding: 18px 28px;
+    font-size: 3rem; //change this to your desired size
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
