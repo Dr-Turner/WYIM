@@ -11,6 +11,9 @@ body > .container {
 .carousel-caption {
     bottom: 3rem;
     z-index: 10;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 1em;
+    border-radius: 1em;
 }
 .carousel-item {
     height: 32rem;
@@ -57,7 +60,7 @@ body > .container {
 }
 
 
-/* button enchancements
+/* button enhancements
 ---------------------------------------------------------------*/
 
 .btn-xl {
